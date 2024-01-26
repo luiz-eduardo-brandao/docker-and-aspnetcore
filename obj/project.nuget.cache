@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5PIKoo8u0seVhrR55X7XIlUfOgQHJ3n1zFySlzTRzypoMLChKkzl4hlBT8LDDGbN4jq1Tn4sFud4ypl+W7R9w==",
+  "success": true,
+  "projectFilePath": "C:\\edu\\studies\\DockerAspNet.API\\DockerAspNet.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Brandão\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.signa.net.br/webapi/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
